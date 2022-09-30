@@ -20,8 +20,6 @@
 ### Author
 
 * **Chaitanya Rai**
-* [Instagram](https://www.instagram.com/rai.chaitanya)
-
 
 ### Rules
 

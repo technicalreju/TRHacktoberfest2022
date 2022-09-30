@@ -66,7 +66,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 
 ## License
 
-**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](/LICENSE) file for details**
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](/LICENSE.md) file for details**
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
 

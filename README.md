@@ -27,7 +27,7 @@ Check out `good-first-issues` for contributing [here](https://github.com/Sanyam-
 ### Author
 
 * **Chaitanya Rai**
-* [Instagram](https://twitter.com/IasSanyamJain)
+* [Instagram](https://www.instagram.com/rai.chaitanya)
 
  
 ### Contributing
